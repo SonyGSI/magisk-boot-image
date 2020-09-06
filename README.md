@@ -39,6 +39,8 @@ Create your boot image:
 
 | Xperia Version | Magisk Version | Boot Image         |
 |:-------------- |:-------------- |:------------------ |
+| 52.1.A.3.49    | 20.4           | [52.1.A.3.49.img]  |
 | 52.1.A.0.618   | 20.4           | [52.1.A.0.618.img] |
 
+[52.1.A.3.49.img]: https://github.com/SonyGSI/magisk-boot-image/releases/download/52.1.A.3.49/52.1.A.3.49.img
 [52.1.A.0.618.img]: https://github.com/SonyGSI/magisk-boot-image/releases/download/52.1.A.0.618/52.1.A.0.618.img
